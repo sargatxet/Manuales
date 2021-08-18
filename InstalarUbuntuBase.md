@@ -184,6 +184,6 @@ Accederemos al servidor como usuario _root_, bien con usuario/contraseña, bien 
 
         operador@PruebasPool:~$ sudo reboot
 
-11. Repetimos el paso **9** para eliminar los paquetes innecesarios
+11. Repetimos el paso **9** para eliminar los paquetes innecesarios y nos salimos del servidor
 
-\*\*\*Cualquier sugerencia a añadir podemos
+12. Es conveniente, una vez establecida la base, crear un **Snapshot** en _Vultr_ desde el que podremos instalar una nueva instancia (de igual o superior potencia) ya con todos estos pasos configurados.
