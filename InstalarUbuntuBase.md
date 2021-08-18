@@ -8,8 +8,6 @@ Cuando no se dispone de una cuenta en Vultr, lo mejor es empezar con una cuenta 
 
 Para crear una cuenta es necesario tener una dirección de correo electrónico, y, en caso de querer continuar en el servicio tras las pruebas hay que realizar KYC para realizar un primer pago mediante tarjeta de crédito o PayPal (_solo es necesario para la primera vez, luego ya se puede pagar en BTC_).
 
----
-
 ## 2. Crear un servidor basado en Ubuntu LTS
 
 1.  Para la selección del servidor existen multitud de opciones, dependiendo de la capacidad de la CPU, de la RAM necesaria, de la capacidad de almacenamiento pero podemos destacar por su coste los servicios de **Cloud Compute** o **High frequency**.
